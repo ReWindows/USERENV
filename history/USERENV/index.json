@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "USERENV.dll",
+  "latest": "1246422943-68B1C8D17B22FE9E7D6E5A28FF763527-1",
+  "builds": [
+    {
+      "key": "1246422943-68B1C8D17B22FE9E7D6E5A28FF763527-1",
+      "timestamp": "1246422943",
+      "pdb_guid": "68B1C8D17B22FE9E7D6E5A28FF763527",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1246422943-68B1C8D17B22FE9E7D6E5A28FF763527-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
